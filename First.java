@@ -5,5 +5,6 @@ public class First{
         System.out.println("Welcome to DevOps...");
         System.out.println("Learning jenkins with java");
         System.out.println(new Date());
+        System.out.println("Reading code from github repo automatically");
     }
 }
